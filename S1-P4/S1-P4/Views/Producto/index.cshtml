@@ -1,0 +1,37 @@
+﻿<!--incrustar codigo en C# con arroba -->
+@model IEnumerable<S1_P4.Models.Producto>
+@{
+    ViewBag.Title = "Lista de Productos";
+}
+
+<h2>Lista de Productos</h2>
+
+@if (Model != null && Model.Any())
+{ //si el modelo contiene algo
+    <table class="table table-striped">
+        <!--cabecera de la tabla-->
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+
+        <!--cuerpo de la tabla-->
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nombre</td>
+                    <td>@item.Precio</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay productos disponibles</p>
+}
