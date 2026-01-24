@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\registropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\registropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\registropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\registropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\s14-p4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\s14-p4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|c:\\users\\saril\\desktop\\progra4\\s14-p4\\s14-p4\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11590E-B476-4D2F-811C-9909827FC13B}|S14-P4\\S14-P4.csproj|solutionrelative:s14-p4\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "S14-P4\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\MainPage.xaml.cs",
+              "RelativeToolTip": "S14-P4\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:09:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\MainPage.xaml",
+              "RelativeDocumentMoniker": "S14-P4\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\MainPage.xaml",
+              "RelativeToolTip": "S14-P4\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T17:08:25.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\RegistroPage.xaml.cs",
+              "RelativeDocumentMoniker": "S14-P4\\RegistroPage.xaml.cs",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\RegistroPage.xaml.cs",
+              "RelativeToolTip": "S14-P4\\RegistroPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:33:28.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroPage.xaml",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\RegistroPage.xaml",
+              "RelativeDocumentMoniker": "S14-P4\\RegistroPage.xaml",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\RegistroPage.xaml",
+              "RelativeToolTip": "S14-P4\\RegistroPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T16:28:36.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\App.xaml.cs",
+              "RelativeDocumentMoniker": "S14-P4\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\App.xaml.cs",
+              "RelativeToolTip": "S14-P4\\App.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:18:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\Data\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "S14-P4\\Data\\DataBaseService.cs",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\Data\\DataBaseService.cs",
+              "RelativeToolTip": "S14-P4\\Data\\DataBaseService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:00:57.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\Models\\Medicamento.cs",
+              "RelativeDocumentMoniker": "S14-P4\\Models\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\Models\\Medicamento.cs",
+              "RelativeToolTip": "S14-P4\\Models\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:50:27.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "S14-P4",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\S14-P4.csproj",
+              "RelativeDocumentMoniker": "S14-P4\\S14-P4.csproj",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\S14-P4\\S14-P4\\S14-P4.csproj",
+              "RelativeToolTip": "S14-P4\\S14-P4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T15:50:00.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

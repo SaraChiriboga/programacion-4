@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S9_2_P4.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="MyButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Blue"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="WidthRequest" Value="200"/>
+                
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Padding="20" VerticalOptions="CenterAndExpand">
+        <Label 
+            FontSize="23"
+            HorizontalOptions="Center"
+            Text="Hola"/>
+
+        <Button
+            Clicked="OnButtonClicked"
+            Style="{StaticResource MyButtonStyle}"
+            Text="Click here!"/>
+        
+    </StackLayout>
+</ContentPage>
